@@ -1,1 +1,17 @@
-<div>Icons made by <a href="http://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+# Notification Bar
+
+## Description
+Notification bar is a CSS & HTML only notification bar. Nothing complicated just CSS and HTML.
+
+### Change log
+
+#### December 29th, 2016
+* Updated readme.md to something more meaningful
+* Added Open Sans from [Google Fonts](https://fonts.google.com/specimen/Open+Sans)
+
+#### November 4th, 2016
+* Initial commit
+
+### 3rd party
+* Icons by [Dave Gandy](http://www.flaticon.com/authors/dave-gandy) from [Flaticon](http://www.flaticon.com)
+* Font by [Google Fonts](https://fonts.google.com/specimen/Open+Sans)
