@@ -5,6 +5,11 @@ Notification bar is a CSS & HTML only notification bar. Nothing complicated just
 
 ### Change log
 
+#### February 8th, 2017
+* Removed duplicate style code
+* Cleaned up style code
+* Added anchor styling
+
 #### December 29th, 2016
 * Updated readme.md to something more meaningful
 * Added Open Sans from [Google Fonts](https://fonts.google.com/specimen/Open+Sans)
@@ -15,3 +20,6 @@ Notification bar is a CSS & HTML only notification bar. Nothing complicated just
 ### 3rd party
 * Icons by [Dave Gandy](http://www.flaticon.com/authors/dave-gandy) from [Flaticon](http://www.flaticon.com)
 * Font by [Google Fonts](https://fonts.google.com/specimen/Open+Sans)
+
+### To do
+* Mobile compliant
