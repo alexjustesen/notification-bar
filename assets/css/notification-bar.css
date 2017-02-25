@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i');
 
-html, body {
-    margin: 0px;
-    padding: 0px;
-} 
 .notification-bar {
     color: #fff;
     position: absolute;
-    width: 100%;
-    font-family: "Open Sans", "Helvetica", sans-serif;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-family: "Open Sans", inherit;
+    z-index: 1;
 }
 .notification-bar .notification-text {
     background-color: #00AEEF; /* default background color */

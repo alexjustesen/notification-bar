@@ -5,6 +5,9 @@ Notification bar is a CSS & HTML only notification bar. Nothing complicated just
 
 ### Change log
 
+#### February 25th, 2017
+* Cleaned up a few things
+
 #### February 8th, 2017
 * Removed duplicate style code
 * Cleaned up style code
